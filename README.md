@@ -106,10 +106,13 @@ pip install opencv-python pillow
 
 ## Results
 
-# The project is based on the VideoPose3D
-```@inproceedings{pavllo:videopose3d:2019,
+### The project is based on the VideoPose3D:
+
+```
+@inproceedings{pavllo:videopose3d:2019,
   title={3D human pose estimation in video with temporal convolutions and semi-supervised training},
   author={Pavllo, Dario and Feichtenhofer, Christoph and Grangier, David and Auli, Michael},
   booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2019}
-}```
+}
+```
