@@ -104,5 +104,12 @@ pip install opencv-python pillow
 - **Process Steps (1-4)**: Executes the video processing pipeline.
 - **Play Processed Video**: Displays the output video after processing is complete.
 
-## Contributing
-Contributions are welcome. Please create a pull request or open an issue to discuss your changes.
+## Results
+
+# The project is based on the VideoPose3D
+```@inproceedings{pavllo:videopose3d:2019,
+  title={3D human pose estimation in video with temporal convolutions and semi-supervised training},
+  author={Pavllo, Dario and Feichtenhofer, Christoph and Grangier, David and Auli, Michael},
+  booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019}
+}```
