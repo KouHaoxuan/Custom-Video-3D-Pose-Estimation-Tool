@@ -105,7 +105,7 @@ pip install opencv-python pillow
 - **Play Processed Video**: Displays the output video after processing is complete.
 
 ## Results
-![Screenshot of Output Video]([Group Assignment - Video 3D Pose Estimation/output.png])
+![Screenshot of Output Video](output.png)
 
 ### The project is based on the VideoPose3D:
 
